@@ -1,9 +1,7 @@
 # blog
 
-1、git@github.com:Makabaka-xy/blog.git
+1、go mod tidy
 
-2、go mod tidy
+2、go build
 
-3、go build
-
-4、blog.exe
+3、blog.exe
