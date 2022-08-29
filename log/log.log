@@ -1,0 +1,1 @@
+time="2022-07-21T22:13:56+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=196 Hostname=MagicBookPro Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="2 ms" status=200
